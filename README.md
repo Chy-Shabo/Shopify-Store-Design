@@ -1,4 +1,4 @@
-# Shopify-Store-Design
+# shopify-store-design
 Solar Gleam - Shopify Dropshipping Store Design
 
 
